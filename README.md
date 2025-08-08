@@ -9,9 +9,8 @@
 
 
 
- [!IMPORTANT]
-
-> <h3><mark><b>We’re not accepting community contributions right now.</b></mark></h3>
+> [!IMPORTANT]
+> <h3><mark style="background-color:#007BFF; color:white;"><b>We’re not accepting community contributions right now.</b></mark></h3>
 > <table>
 >   <tr>
 >     <td>
@@ -20,11 +19,11 @@
 >     <td style="padding-left: 10px;">
 >       We love our community. We're so grateful you're interested!<br />
 >       But our maintainers are <b>not accepting community contributions at this time.</b><br />
->       This guide is here to help anyone who needs it.<br />
+>       This guide is here to help anyone who needs it, especially focused on <b>Python 🐍 functions</b>.<br />
 >       Feel free to use and learn, and thank you for understanding! 😊
 >     </td>
 >   </tr>
 > </table>
 >
 > <br>
->
+
