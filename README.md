@@ -6,16 +6,6 @@
   </tr>
 </table>
 
-<div align="center" style="margin-top: 15px;">
-  <a href="https://exercism.org" style="margin:0 15px;">
-    <img src="https://img.shields.io/badge/Exercism--Built-9101FF?logo=python&logoColor=FFDF58&labelColor=3D7AAB&label=Python%203.11%20Powered" alt="Exercism_I" />
-  </a>
-  <a href="https://exercism.org/blog/freeing-our-maintainers" style="margin:0 15px;">
-    <img src="https://img.shields.io/badge/PAUSED-C73D4E?labelColor=3D454D&label=Contributions" alt="Exercism_II" />
-  </a>
-  <a href="https://github.com/Francionlj/pyfundamentals-journey/actions" style="margin:0 15px;">
-    <img src="https://github.com/Francionlj/pyfundamentals-journey/actions/workflows/CI.yml/badge.svg" alt="Build Status" />
-  </a>
 </div>
 
 
