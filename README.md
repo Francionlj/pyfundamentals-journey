@@ -1,4 +1,3 @@
-
 <table align="center">
   <tr>
     <td><img src="figures/Python.png" alt="Imagem Início" width="50" /></td>
@@ -7,12 +6,18 @@
   </tr>
 </table>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Exercism_I](https://img.shields.io/badge/Exercism--Built-9101FF?logo=python&logoColor=FFDF58&labelColor=3D7AAB&label=Python%203.11%20Powered)](https://exercism.org)
-&nbsp;&nbsp;
-[![Exercism_II](https://img.shields.io/badge/PAUSED-C73D4E?labelColor=3D454D&label=Contributions)](https://exercism.org/blog/freeing-our-maintainers)
-&nbsp;&nbsp;
-[![Build Status_III](https://github.com/exercism/python/workflows/Exercises%20check/badge.svg)](https://github.com/exercism/python/actions?query=workflow%3A%22Exercises+check%22)
+<div align="center">
+  <a href="https://exercism.org" style="margin:0 10px;">
+    <img src="https://img.shields.io/badge/Exercism--Built-9101FF?logo=python&logoColor=FFDF58&labelColor=3D7AAB&label=Python%203.11%20Powered" alt="Exercism_I" />
+  </a>
+  <a href="https://exercism.org/blog/freeing-our-maintainers" style="margin:0 10px;">
+    <img src="https://img.shields.io/badge/PAUSED-C73D4E?labelColor=3D454D&label=Contributions" alt="Exercism_II" />
+  </a>
+  <a href="https://github.com/exercism/python/actions?query=workflow%3A%22Exercises+check%22" style="margin:0 10px;">
+    <img src="https://img.shields.io/badge/Build-Running-blue?style=flat" alt="Build Status_III" />
+  </a>
+</div>
+
 
 
 > [!IMPORTANT]
