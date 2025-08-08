@@ -3,6 +3,11 @@
 <img align="left" width="90" height="90" src="figures/Python.png">
 <p vertical-align="middle"><h1>Python Fundamental Journey</h1></p>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Python](https://img.shields.io/badge/Python%203.13.5%20-version-grey?style=for-the-badge&labelColor=blue&logo=python&logoColor=f6e60e&cacheSeconds=3619)](https://www.python.org/)
+
+
+<br>
+
 <br>
 
 > <h3><mark style="background-color:#007BFF; color:white;"><b>We’re not accepting community contributions right now.</b></mark></h3>
