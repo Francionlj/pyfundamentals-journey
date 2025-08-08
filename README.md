@@ -1,22 +1,12 @@
-<table align="center" style="font-size:36px;">
-  <tr>
-    <td><img src="figures/Python.png" alt="Imagem Início" width="70" /></td>
-    <td align="center" style="font-size:36px; font-weight:bold; padding: 0 20px;">Python Fundamental Journey</td>
-    <td><img src="figures/Python.png" alt="Imagem Fim" width="70" /></td>
-  </tr>
-</table>
 
-</div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;[![Exercism_I](https://img.shields.io/badge/Exercism--Built-9101FF?logo=python&logoColor=FFDF58&labelColor=3D7AAB&label=Python%203.11%20Powered)](https://exercism.org)
-&nbsp;&nbsp;[![Exercism_II](https://img.shields.io/badge/PAUSED-C73D4E?labelColor=3D454D&label=Contributions)](https://exercism.org/blog/freeing-our-maintainers)
-&nbsp; [![Build Status](https://github.com/exercism/python/workflows/Exercises%20check/badge.svg)](https://github.com/Francionlj/pyfundamentals-journey/actions)
+<p style="display: flex; align-items: center;">
+  <img src="figures/Python.png" alt="Python Logo" width="90" height="90" style="margin-right: 15px;" />
+  <span style="font-size: 36px; font-weight: bold;">Python Fundamental Journey</span>
+</p>
 
 
 
-
-> [!IMPORTANT]
 > <h3><mark style="background-color:#007BFF; color:white;"><b>We’re not accepting community contributions right now.</b></mark></h3>
 > <table>
 >   <tr>
@@ -34,3 +24,14 @@
 >
 > <br>
 
+
+# About this repository
+
+This repository was inspired by the book **[Python Crash Course](https://www.amazon.com.br/Python-Crash-Course-3rd-English-ebook/dp/B09WJX22TV/ref=sr_1_1?adgrpid=84993459327&dib=eyJ2IjoiMSJ9.e-sT28ifb7WAlk_9reTnLo8C8EQbQ90R3_rj4B_NAXjl09kkyrUEJKOSZDOoWq_raKcUDGL-vc96e-Vc5XcBA_4crNNSUs6zQygO4FQGFomgWH99cNeSd2aLjTSVAwLaYRDwKdVw-UUkB0yidG0sJOCFX1gqRdSaDKcx0I3X91XfzXRMrNxOr6I9rsuiDoInH0IwXvRH5EmZQFUy5RMqoA.dZ7NfrcVgyJXqNJ9-Ey-y9vrJuMdCE01-ymX4_ML22g&dib_tag=se&hvadid=426016285901&hvdev=c&hvlocphy=9197548&hvnetw=g&hvqmt=b&hvrand=12482688460270125483&hvtargid=kwd-394541269564&hydadcr=5653_11235203&keywords=curso+intensivo+python&mcid=2d8d4c55b01c311386b48324171756cf&qid=1754678051&refinements=p_n_feature_nine_browse-bin%3A8529758011&rnid=8529757011&s=books&sr=1-1)**. Each folder corresponds to a chapter of the book, except the first one, which is dedicated to teaching how to download and set up Python in your development environment.
+The proposed projects from the book are or will be created in separate repositories in the future, for better organization and version control of each project.
+
+## Chapters 
+
+📁 [Chapter 2: Variables and Simple Data Types](./chapter-2)
+
+---
