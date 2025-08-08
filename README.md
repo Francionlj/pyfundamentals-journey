@@ -1,11 +1,9 @@
+<br>
 
+<img align="left" width="90" height="90" src="figures/Python.png">
+<p vertical-align="middle"><h1>Python Fundamental Journey</h1></p>
 
-<p style="display: flex; align-items: center;">
-  <img src="figures/Python.png" alt="Python Logo" width="90" height="90" style="margin-right: 15px;" />
-  <span style="font-size: 36px; font-weight: bold;">Python Fundamental Journey</span>
-</p>
-
-
+<br>
 
 > <h3><mark style="background-color:#007BFF; color:white;"><b>We’re not accepting community contributions right now.</b></mark></h3>
 > <table>
