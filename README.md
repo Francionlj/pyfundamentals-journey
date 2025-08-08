@@ -8,6 +8,10 @@
 
 </div>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;[![Exercism_I](https://img.shields.io/badge/Exercism--Built-9101FF?logo=python&logoColor=FFDF58&labelColor=3D7AAB&label=Python%203.11%20Powered)](https://exercism.org)
+&nbsp;&nbsp;[![Exercism_II](https://img.shields.io/badge/PAUSED-C73D4E?labelColor=3D454D&label=Contributions)](https://exercism.org/blog/freeing-our-maintainers)
+&nbsp; [![Build Status](https://github.com/exercism/python/workflows/Exercises%20check/badge.svg)](https://github.com/Francionlj/pyfundamentals-journey/actions)
 
 
 
