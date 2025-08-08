@@ -15,7 +15,7 @@
   <a href="https://exercism.org/blog/freeing-our-maintainers" style="margin:0 15px;">
     <img src="https://img.shields.io/badge/PAUSED-C73D4E?labelColor=3D454D&label=Contributions" alt="Exercism_II" />
   </a>
-  <a href="https://github.com/seu-usuario/seu-repositorio/actions/workflows/seu-workflow.yml" style="margin:0 15px;">
+  <a href="https://github.com/Francionlj/pyfundamentals-journey/actions" style="margin:0 15px;">
     <img src="https://github.com/Francionlj/pyfundamentals-jouney/actions/workflows/seu-workflow.yml/badge.svg" alt="Build Status_III" />
   </a>
 </div>
