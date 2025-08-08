@@ -3,7 +3,8 @@
 <img align="left" width="90" height="90" src="figures/Python.png">
 <p vertical-align="middle"><h1>Python Fundamental Journey</h1></p>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Python](https://img.shields.io/badge/Python%203.13.5%20-version-grey?style=for-the-badge&labelColor=blue&logo=python&logoColor=f6e60e&cacheSeconds=3619)](https://www.python.org/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Python](https://img.shields.io/badge/Python%203.13.5%20-version-grey?style=for-the-badge&labelColor=blue&logo=python&logoColor=f6e60e&cacheSeconds=3619)](https://www.python.org/)
 &nbsp;&nbsp;![block_II](https://img.shields.io/badge/Contributions-PAUSED-db3e1a?style=for-the-badge&labelColor=grey&cacheSeconds=3619)
 &nbsp;&nbsp;[![GIT_III](https://img.shields.io/badge/Exercises%20check-RUNNIG-green?style=for-the-badge&labelColor=grey&logo=github&logoColor=white&cacheSeconds=3619)](https://github.com/Francionlj/pyfundamentals-journey/actions)
 
