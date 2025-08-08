@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/PAUSED-C73D4E?labelColor=3D454D&label=Contributions" alt="Exercism_II" />
   </a>
   <a href="https://github.com/Francionlj/pyfundamentals-journey/actions" style="margin:0 15px;">
-    <img src="https://github.com/Francionlj/pyfundamentals-journey/actions/workflows/CI.yml/badge.svg" alt="Build Status_III" />
+    <img src="https://github.com/Francionlj/pyfundamentals-journey/actions/workflows/CI.yml/badge.svg" alt="Build Status" />
   </a>
 </div>
 
