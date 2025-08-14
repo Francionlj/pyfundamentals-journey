@@ -29,27 +29,26 @@
 >
 > <br>
 
-
 # About this repository
 
 The **pyfundamentals-journey** repository aims to be a quick-reference guide and consultation source for anyone seeking to learn or look up Python functions and concepts efficiently.
 
 This repository was inspired by the book **[Python Crash Course](https://www.amazon.com.br/Python-Crash-Course-3rd-English-ebook/dp/B09WJX22TV/ref=sr_1_1?adgrpid=84993459327&dib=eyJ2IjoiMSJ9.e-sT28ifb7WAlk_9reTnLo8C8EQbQ90R3_rj4B_NAXjl09kkyrUEJKOSZDOoWq_raKcUDGL-vc96e-Vc5XcBA_4crNNSUs6zQygO4FQGFomgWH99cNeSd2aLjTSVAwLaYRDwKdVw-UUkB0yidG0sJOCFX1gqRdSaDKcx0I3X91XfzXRMrNxOr6I9rsuiDoInH0IwXvRH5EmZQFUy5RMqoA.dZ7NfrcVgyJXqNJ9-Ey-y9vrJuMdCE01-ymX4_ML22g&dib_tag=se&hvadid=426016285901&hvdev=c&hvlocphy=9197548&hvnetw=g&hvqmt=b&hvrand=12482688460270125483&hvtargid=kwd-394541269564&hydadcr=5653_11235203&keywords=curso+intensivo+python&mcid=2d8d4c55b01c311386b48324171756cf&qid=1754678051&refinements=p_n_feature_nine_browse-bin%3A8529758011&rnid=8529757011&s=books&sr=1-1)**. Each folder corresponds to a chapter of the book, except the first one, which is dedicated to teaching how to download and set up Python in your development environment.
-Each folder contains the corresponding `.py` files proposed in the book. All the work was done in Jupyter notebooks to facilitate organization and structure. To run any `.py` file from the terminal, simply navigate to the folder where the file is located and execute the following command: 
+Each folder contains the corresponding `.py` files proposed in the book. All the work was done in Jupyter notebooks to facilitate organization and structure. To run any `.py` file from the terminal, simply navigate to the folder where the file is located and execute the following command:
 
 `python filename.py`.
 
 Replace `filename.py` with the name of the Python file you want to run.
 The proposed projects from the book are or will be created in separate repositories in the future for better organization and version control of each project.
 
+## Chapters
 
-## Chapters 
-
-📁 [Chapter 2: Variables and Simple Data Types](./chapter-2)
+📁 [Chapter 2: Variables and Simple Data Types
+](./chapter-2)
 
 ---
+
 ## License
 
-This project is licensed under the Python Software Foundation License.  
+This project is licensed under the Python Software Foundation License.
 You can learn more about this license [here](https://docs.python.org/3/license.html).
-
