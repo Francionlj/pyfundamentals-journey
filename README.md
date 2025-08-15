@@ -54,9 +54,9 @@ The proposed projects from the book are or will be created in separate repositor
   
 ============
 
-📁 [Chapter 3: 
-Introduction to the List
+📁 [Chapter 3: Introduction to the List
 ](./chapter-3)
+- 📄 What is List
 ---
 
 ## License
