@@ -45,7 +45,18 @@ The proposed projects from the book are or will be created in separate repositor
 
 📁 [Chapter 2: Variables and Simple Data Types
 ](./chapter-2)
+- 📄 Hello WORDE!
+- 📄 Variable
+- 📄 Strings
+- 📄 Numbers
+- 📄 Comments
+- 📄 The Zen of Python
+  
+============
 
+📁 [Chapter 3: 
+Introduction to the List
+](./chapter-3)
 ---
 
 ## License
