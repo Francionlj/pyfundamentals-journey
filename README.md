@@ -58,6 +58,17 @@ The proposed projects from the book are or will be created in separate repositor
 ](./chapter-3)
 
 - 📄 What is List?
+- 📄 Accessing List Elements
+- 📄 Index Positions Start at 0, Not 1
+- 📄 Modifying, Adding and removing Elements from a List
+- 📄 Sorting Lists
+- 📄 Sorting Lists in Reverse Order
+- 📄 Identifying the Size os Lists
+
+📁 [Chapter 4: Working with lists
+](./chapter-4)
+
+- 📄 Loops iterating through an entire list
 
 ---
 
