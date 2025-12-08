@@ -52,22 +52,18 @@ The proposed projects from the book are or will be created in separate repositor
 ](./chapter-2)
 - 📄 [Hello WORDE!](chapter-2/2_1_Hello_word.ipynb)
 - 📄 [Variable](chapter-2/2_2_variable.ipynb)
-- 📄 Strings
-- 📄 Numbers
-- 📄 Comments
-- 📄 The Zen of Python
+- 📄 [Strings](chapter-2/2_3_strings.ipynb)
+- 📄 [Numbers](chapter-2/2_4_numbers.ipynb)
+- 📄 [Comments](chapter-2/2_5_comments.ipynb)
+- 📄 [The Zen of Python](chapter-2/2_6_zen.ipynb)
 
 
 📁 [Chapter 3: Introduction to the List
 ](./chapter-3)
 
-- 📄 What is List?
-- 📄 Accessing List Elements
-- 📄 Index Positions Start at 0, Not 1
-- 📄 Modifying, Adding and removing Elements from a List
-- 📄 Sorting Lists
-- 📄 Sorting Lists in Reverse Order
-- 📄 Identifying the Size os Lists
+- 📄 [What is List?](chapter-3/3_1_waht_is_list.ipynb)
+- 📄 [Accessing List Elements](chapter-3/3_2_accessing_list_elements.ipynb)
+- 📄 [Sorting Lists](chapter-3/3_3_sorting_lists.ipynb)
 
 📁 [Chapter 4: Working with lists
 ](./chapter-4)
