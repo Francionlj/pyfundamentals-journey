@@ -68,7 +68,8 @@ The proposed projects from the book are or will be created in separate repositor
 📁 [Chapter 4: Working with lists
 ](./chapter-4)
 
-- 📄 Loops iterating through an entire list
+- 📄 [Loops iterating through an entire list](chapter-4/4_1_work_whit_a_list_intaration.ipynb)
+- 📄 [Avoiding indentation errors](chapter-4/4_2_avoiding_indentation_erro.ipynb)
 
 ---
 
