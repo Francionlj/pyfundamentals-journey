@@ -59,8 +59,10 @@ The projects proposed in the book will be created in separate repositories for b
 - 📄 [Avoiding Indentation Errors](./chapter-4/4_2_avoiding_indentation_erro.ipynb)
 - 📄 [Creating Numerical Lists](./chapter-4/4_3_creating_numerical_lists.ipynb)
 - 📄 [Working with Part of a List](./chapter-4/4_4_work_with_parts_of_a_list.ipynb)
+- 📄 [Tuple](./chapter-4/4_5_tuple.ipynb)
 
----
+📁 [Chapter 5: If Statements](./chapter-5)
+- 📄 [A Simple Example](./chapter-5/5_1_a_simple_example.ipynb)
 
 ## 📄 License
 
