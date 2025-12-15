@@ -63,6 +63,7 @@ The projects proposed in the book will be created in separate repositories for b
 
 📁 [Chapter 5: If Statements](./chapter-5)
 - 📄 [A Simple Example](./chapter-5/5_1_a_simple_example.ipynb)
+- 📄 [If Statements](./chapter-5/5_2_if_statements.ipynb)
 
 ## 📄 License
 
