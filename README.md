@@ -65,6 +65,9 @@ The projects proposed in the book will be created in separate repositories for b
 - 📄 [A Simple Example](./chapter-5/5_1_a_simple_example.ipynb)
 - 📄 [If Statements](./chapter-5/5_2_if_statements.ipynb)
 - 📄 [Simple if Statements](./chapter-5/5_3_simple_if_tatements.ipynb)
+- 📄 [Using if Statements with Lists](./chapter-5/5_4_Using_if_tatements_with_ists.ipynb)
+
+📁 [Chapter 6: Dictionary](./chapter-6)
 
 ## 📜 License
 
