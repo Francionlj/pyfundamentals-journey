@@ -68,6 +68,7 @@ The projects proposed in the book will be created in separate repositories for b
 - 📄 [Using if Statements with Lists](./chapter-5/5_4_Using_if_tatements_with_ists.ipynb)
 
 📁 [Chapter 6: Dictionary](./chapter-6)
+- 📄 [A Simple Dictionary](./chapter-6/6_1_a_semple_dictionary.ipynb)
 
 ## 📜 License
 
