@@ -70,7 +70,7 @@ The projects proposed in the book will be created in separate repositories for b
 📁 [Chapter 6: Dictionary](./chapter-6)
 - 📄 [A Simple Dictionary](./chapter-6/6_1_a_semple_dictionary.ipynb)
 - 📄 [Working with Dictionaries](./chapter-6/6_2_working_with_dictionaries.ipynb)
-
+- 📄 [Looping Through a Dictionary](./chapter-6/6_3_loop_through_dictionary.ipynb)
 ## 📜 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
