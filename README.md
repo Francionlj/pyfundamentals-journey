@@ -74,7 +74,7 @@ The projects proposed in the book will be created in separate repositories for b
 - 📄 [Alignment](chapter-6/6_4_alignment.ipynb)
 
 📁 [Chapter 7: User Input and While Loops](./chapter-7)
-- 📄 [How the input() Function Works](./chapter-7/7_1_how_the_input_unction_orks.ipynb)
+- 📄 [How the input() Function Works](chapter-7/7_1_how_the_input_unction_works.ipynb)
 
 ## 📜 License
 
