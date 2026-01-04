@@ -75,6 +75,7 @@ The projects proposed in the book will be created in separate repositories for b
 
 📁 [Chapter 7: User Input and While Loops](./chapter-7)
 - 📄 [How the input() Function Works](chapter-7/7_1_how_the_input_unction_works.ipynb)
+- 📄 [The while in loop Action](chapter-7/7_2_the_while_loop_in_action.ipynb)
 
 ## 📜 License
 
