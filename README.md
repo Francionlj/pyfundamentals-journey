@@ -79,6 +79,7 @@ The projects proposed in the book will be created in separate repositories for b
 - 📄 [Using a while Loop with Lists and Dictionaries](chapter-7/7_3__using_a_while_loop_with_lists_and_dictionaries.ipynb)
 
 📁 [Chapter 8: Functions](./chapter-8)
+- 📄 [Defining a Function](chapter-8/8_1_defining_a_function.ipynb)
 
 ## 📜 License
 
