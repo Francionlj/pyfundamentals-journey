@@ -80,6 +80,7 @@ The projects proposed in the book will be created in separate repositories for b
 
 📁 [Chapter 8: Functions](./chapter-8)
 - 📄 [Defining a Function](chapter-8/8_1_defining_a_function.ipynb)
+- 📄 [Passing Arguments](chapter-8/8_2_passing_arguments.ipynb)
 
 ## 📜 License
 
