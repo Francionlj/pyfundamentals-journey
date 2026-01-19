@@ -83,6 +83,8 @@ The projects proposed in the book will be created in separate repositories for b
 - 📄 [Passing Arguments](chapter-8/8_2_passing_arguments.ipynb)
 - 📄 [Return Values](chapter-8/8_3_return_values.ipynb)
 - 📄 [Passing a List](chapter-8/8_4_passing_a_list.ipynb)
+- 📄 [Passing an arbitary number of arguments](chapter-8/8_5_passing_an_arbitary_number_of_arguments.ipynb)
+- 📄 [Storing Your Functions in Modules](chapter-8/8_6_storing_functions_in_modules.ipynb)
 
 ## 📜 License
 
