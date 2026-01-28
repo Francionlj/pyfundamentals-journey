@@ -85,7 +85,7 @@ The projects proposed in the book will be created in separate repositories for b
 - 📄 [Passing a List](chapter-8/8_4_passing_a_list.ipynb)
 - 📄 [Passing an arbitary number of arguments](chapter-8/8_5_passing_an_arbitary_number_of_arguments.ipynb)
 - 📄 [Storing Your Functions in Modules](chapter-8/8_6_storing_functions_in_modules.ipynb)
-- 📄 [Processing DataFrames](chapter-8/8_7_processing_dataframes.ipynb)
+- 📄 [Type Hints and Return Values](chapter-8/8_7_type_hints.ipynb)
 
 ## 📜 License
 
