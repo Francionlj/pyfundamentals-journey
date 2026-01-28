@@ -85,6 +85,7 @@ The projects proposed in the book will be created in separate repositories for b
 - 📄 [Passing a List](chapter-8/8_4_passing_a_list.ipynb)
 - 📄 [Passing an Arbitrary Number of Arguments](chapter-8/8_5_arbitrary_arguments.ipynb)
 - 📄 [Storing Your Functions in Modules](chapter-8/8_6_storing_functions_in_modules.ipynb)
+- 📄 [Processing DataFrames](chapter-8/8_7_processing_dataframes.ipynb)
 
 📁 [Chapter 9: Class](./chapter-9)
 - 📄 [Creating and Using a Class](chapter-9/9_1_creating_and_using_a_class.ipynb)
