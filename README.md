@@ -4,14 +4,14 @@
   <p>A quick-reference guide for learning Python concepts and functions efficiently.</p>
   
   [![Python Version](https://img.shields.io/badge/Python-3.12+-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-  [![Contributions Paused](https://img.shields.io/badge/Contributions-PAUSED-red?style=for-the-badge)](https://github.com/Francionlj/pyfundamentals-journey)
+  [![Project Status](https://img.shields.io/badge/Project%20Status-Finished-brightgreen?style=for-the-badge)](https://github.com/Francionlj/pyfundamentals-journey)
   [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 </div>
 
 ---
 
-> ### ⚠️ **We’re not accepting community contributions right now.**
-> We love our community and are grateful for your interest! However, our maintainers are **not accepting community contributions at this time.**
+> ### ⚠️ **This project is now complete.**
+> We are happy to announce that this guide has been finalized. All planned chapters and content have been added.
 > This guide is here to help anyone who needs it, especially those focused on **Python 🐍 fundamentals**.
 > Feel free to use and learn, and thank you for your understanding! 😊
 
@@ -91,6 +91,19 @@ The projects proposed in the book will be created in separate repositories for b
 - 📄 [Creating and Using a Class](chapter-9/9_1_creating_and_using_a_class.ipynb)
 - 📄 [Working with Classes and Instances](chapter-9/9_2_working_with_classes_and_instances.ipynb)
 
+## 🔮 Future Updates
+
+While the core of this guide is complete, the following updates may be considered in the future:
+
+- **Adding More Chapters:** New content covering more advanced Python topics.
+- **Interactive Examples:** Integration with online platforms for running code directly in the browser.
+- **Community Contributions:** Opening the project to community contributions to enrich the content.
+
 ## 📜 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+<div align="center">
+  <p>Made by <a href="https://github.com/Francionlj">francionlj</a> 💙</p>
+</div>
