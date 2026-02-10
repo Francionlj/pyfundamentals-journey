@@ -105,5 +105,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 <div align="center">
-  <p>Made by <a href="https://github.com/Francionlj">francionlj</a> 💙</p>
+  <sub>Made with 💙 by Francionlj</sub>
 </div>
